@@ -13,9 +13,6 @@ We have three aims:
 with the scientific, and open-source community (e.g. by organising hackathons).
 
 
-<img src='https://brainglobe.info/images/cellfinder_brainrender.png' width="500">
-
-
 The BrainGlobe project is generously supported by the Sainsbury Wellcome Centre and the Institute of Neuroscience, Technical University of Munich, with funding from the Chan Zuckerberg Initiative, Wellcome, the Gatsby Charitable Foundation and the Munich Cluster for Systems Neurology - Synergy.
 <p>
 <img src='https://brainglobe.info/images/SWC.png' width="150">
