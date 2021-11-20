@@ -3,11 +3,11 @@ Python-based tools for computational neuroanatomy.
 
 We have three aims:
 * Develop specialist software for specific analysis and visualisation needs, 
-  such as [cellfinder](https://brainglobe.info/cellfinder) and 
-  [brainrender](https://docs.brainrender.info/).
+  such as [cellfinder](https://github.com/brainglobe/cellfinder) and 
+  [brainrender](https://github.com/brainglobe/brainrender).
   
 * Develop core tools to facilitate others to build interoperable tools in Python, e.g. the
-  [BrainGlobe Atlas API](https://brainglobe.info/atlas-api).
+  [BrainGlobe Atlas API](https://github.com/brainglobe/bg-atlasapi).
 
 * Build a community of neuroscientists and developers to share knowledge, build software and engage
 with the scientific, and open-source community (e.g. by organising hackathons).
