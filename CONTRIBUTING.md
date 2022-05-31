@@ -9,7 +9,7 @@ the [image.sc forum](https://forum.image.sc/tag/brainglobe). If you tag your pos
 specific tool, e.g. `cellfinder`) we will see your question and respond as soon as we can. 
 
 If you have a  query about contributing to a specific tool, please do raise an issue on the relevant GitHub page. 
-If it's not the right repository (e.g. `cellfinder` vs `cellfinder-core`), don't worry, we can move it across later. If 
+If it's not the correct repository (e.g. `cellfinder` vs `cellfinder-core`), don't worry, we can move it to the relevant repository later. If 
 for any reason, you'd rather not reach out in public, feel free to 
 [email](mailto:code@adamltyson.com?subject=brainglobe-contribution) [Adam Tyson](https://github.com/adamltyson), one 
 of the core developers.
