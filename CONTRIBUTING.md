@@ -4,7 +4,7 @@
 **Contributors to BrainGlobe are absolutely encouraged**, whether to fix a bug, develop a new feature, or add a new atlas.
 
 There are many BrainGlobe repositories, so it may not be obvious where a new contribution should go. 
-If you're unsure about any part of contributing, please get in touch. The best place is to start a new discussion on 
+If you're unsure about any part of the contributing process, please get in touch. The best place is to start a new discussion on 
 the [image.sc forum](https://forum.image.sc/tag/brainglobe). If you tag your post with `brainglobe` (and optionally a 
 specific tool, e.g. `cellfinder`) we will see your question and respond as soon as we can. 
 
