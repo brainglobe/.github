@@ -36,7 +36,7 @@ The documentation is built with [gitbook](https://docs.brainglobe.info/) and mir
 
 **There are two ways to edit the documentation**:
 
-* **On GitHub**: Click on the link on the right-hand side of the page you want to edit \(`Edit on GitHub`\), 
+* **On GitHub**: Click on the link on the right-hand side of the page you want to edit (`Edit on GitHub`), 
   make changes online and submit them as a pull request.
 * **Locally**: Fork the repository, clone locally, and then submit your changes as a pull request.
 
@@ -145,11 +145,11 @@ Versioning is taken care of using [bump2version](https://github.com/c4urself/bum
 By using the `bump2version` command, new versions are incremented, a `git` tag is made, and when pushed to the remote 
 repository, that version will be deployed to PyPI. Usage is as follows:
 
-* Bump to new patch version \(e.g. `1.0.0` to `1.0.1-rc0`\): `bump2version patch`
-* Bump to new minor version \(e.g. `1.0.0` to `1.1.0-rc0`\): `bump2version minor`
-* Bump to new major version \(e.g. `1.0.0` to `2.0.0-rc0`\): `bump2version major`
-* Bump to new release candidate version \(e.g. `1.0.0-rc0` to `1.0.0-rc1`\): `bump2version rc`
-* To create a new release version \(e.g. `1.0.0-rc0` to `1.0.0`\): `bump2version release`
+* Bump to new patch version (e.g. `1.0.0` to `1.0.1-rc0`): `bump2version patch`
+* Bump to new minor version (e.g. `1.0.0` to `1.1.0-rc0`): `bump2version minor`
+* Bump to new major version (e.g. `1.0.0` to `2.0.0-rc0`): `bump2version major`
+* Bump to new release candidate version (e.g. `1.0.0-rc0` to `1.0.0-rc1`): `bump2version rc`
+* To create a new release version (e.g. `1.0.0-rc0` to `1.0.0`): `bump2version release`
 
 ### Dependency support
 Packages have to choose which versions of dependencies they officially support,
@@ -175,11 +175,11 @@ Cellfinder includes a lot of functionality brought in from other packages. Each 
 * **Cell detection algorithm**: [cellfinder-core](https://github.com/BrainGlobe/cellfinder-core)
 * **Registration**: [brainreg](https://github.com/brainglobe/brainreg)
 * **Image data IO**: [imio](https://github.com/brainglobe/imio)
-* **General imaging processing \(and other\) tools**: [imlib](https://github.com/adamltyson/imlib)
+* **General imaging processing (and other) tools**: [imlib](https://github.com/adamltyson/imlib)
 
 ### File paths
 
-All file paths should be defined in `cellfinder.tools.prep.Paths`. Any intermediate file paths, \(i.e. those which are not of interest to the typical end-user\) should be prefixed with `tmp__`. These should then be cleaned up as soon as possible after generation.
+All file paths should be defined in `cellfinder.tools.prep.Paths`. Any intermediate file paths, (i.e. those which are not of interest to the typical end-user) should be prefixed with `tmp__`. These should then be cleaned up as soon as possible after generation.
 
 ### Releasing `cellfinder-core`
 
