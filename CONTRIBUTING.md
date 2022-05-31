@@ -58,7 +58,7 @@ conda activate brainglobe-dev
 ```
 
 This installs packages that often can't be installed via `pip`, including
-`pyqt`. The specific version of Python is chosen to allow `tensorflow` to be
+`pyqt`. The specific version of `Python` is chosen to allow `TensorFlow` to be
 installed on macOS arm64 machines.
 
 To install a specific BrainGlobe project for  development, clone the
