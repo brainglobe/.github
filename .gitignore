@@ -119,3 +119,4 @@ venv.bak/
 *.~lock.*
 
 pip-wheel-metadata/
+.envrc
