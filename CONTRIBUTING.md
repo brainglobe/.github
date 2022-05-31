@@ -22,7 +22,7 @@ To add a new BrainGlobe atlas, please see the guide at
 Documentation for BrainGlobe is **very important** because it is aimed at researchers who may not have much
 computational experience. In particular:
 
-* Installation, although simple via PyPI, assumes a lot (functional Python installation, CUDA installation etc.)
+* Installation, although simple via PyPI, assumes a lot (functional Python installation, CUDA installation etc.).
 * Although most software can be run through a single command, there are a lot of steps, and so a lot to understand.
 * There are a lot of parameters that can be changed, and their impact on the final results is not always obvious.
 * It is not immediately obvious how to use the results of the pipeline to answer the particular biological question.
