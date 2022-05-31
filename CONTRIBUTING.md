@@ -189,7 +189,7 @@ All file paths should be defined in `cellfinder.tools.prep.Paths`. Any intermedi
 the filename.
 4. Push the result to the cellfinder-core repository using `git push upstream --follow-tags`.
 5. Check that all the tests pass, the package builds correctly, and that all built packages are uploaded to PyPI.
-6. Check that there are no issues with the new version of `cellfinder-core` and `cellfinder` by going to https://github.com/brainglobe/cellfinder/actions/workflows/test_and_deploy.yml, clicking on the "Run workflow" button the left, typing "true" into the prompt, and clicking "Run workflow". This will run the `cellfinder` tests with the development version of `cellfinder-core`. Make sure these tests pass.
+6. Check that there are no issues with the new version of `cellfinder-core` and `cellfinder` by going to <https://github.com/brainglobe/cellfinder/actions/workflows/test_and_deploy.yml/>, clicking on the "Run workflow" button on the left, typing "true" into the prompt, and clicking "Run workflow". This will run the `cellfinder` tests with the development version of `cellfinder-core`. Make sure that these tests pass.
 7. If something goes wrong, fix the issues, and run `bump2version rc` to create a new release candidate. Push to upstream again, and go back to step 5.
 8. Run `bump2version <type>` to tag the final release version, and push to upstream.
 9. Check that all the tests pass, the package builds correctly, and that all built packages are uploaded to PyPI.
