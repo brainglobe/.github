@@ -137,7 +137,7 @@ During development, these "slow" tests can be skipped by running `pytest -m "not
 
 All commits & pull requests will be built by GitHub actions 
 ([e.g. cellfinder](https://github.com/brainglobe/cellfinder/actions)). To ensure there are no issues, please check 
-that it builds: `pip install .` and run all the tests: `pytest` before committing changes.
+that it builds: `pip install -e .[dev]` and run all the tests: `pytest` before committing changes.
 
 ### Versioning
 
