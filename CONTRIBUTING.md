@@ -118,7 +118,7 @@ pre-commit run -a
 ### Testing
 
 We use [pytest](https://docs.pytest.org/en/latest/) for testing. Please try to ensure that all functions 
-are tested in `tests/tests/test_unit` and all workflows/command-line tools are tested in `tests/tests/test_integration`.
+are tested, including both unit and integration tests.
 
 Some tests may take a long time, e.g. those requiring `TensorFlow` if you don't have a GPU. These tests should be 
 marked with `@pytest.mark.slow`, e.g.:
