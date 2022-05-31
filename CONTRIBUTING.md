@@ -36,9 +36,9 @@ The documentation is built with [gitbook](https://docs.brainglobe.info/) and mir
 
 **There are two ways to edit the documentation:**
 
-* **On GitHub:** Click on the link on the right hand side of the page you want to edit \(`Edit on GitHub`\), 
+* **On GitHub**: Click on the link on the right-hand side of the page you want to edit \(`Edit on GitHub`\), 
   make changes online and submit them as a pull request.
-* **Locally:** Fork the repository, clone locally, then submit your changes as a pull request.
+* **Locally**: Fork the repository, clone locally, and then submit your changes as a pull request.
 
 N.B. The brainrender documentation is hosted in the same way, but seperately. The documentation can be found 
 [here](https://docs.brainrender.info/) and the GitHub repository is 
