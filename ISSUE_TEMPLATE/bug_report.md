@@ -24,7 +24,7 @@ If applicable, add screenshots to help explain your problem.
 
 - OS: [e.g. Linux, Windows, macOS]
 - Version [e.g. 18.04]
-- Hardware specs [e.g. 128GB RAM, Xeon 4114 CPU]
+- Hardware specs [e.g. 128 GB RAM, Xeon 4114 CPU]
 
 **Additional context**
 Add any other context about the problem here.
