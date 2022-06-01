@@ -3,7 +3,6 @@ name: Bug report
 about: Create a report to help us improve
 title: "[BUG]"
 labels: bug
-
 ---
 
 **Describe the bug**
@@ -22,8 +21,9 @@ Please attach the log file if relevant (e.g. `output/cellfinder_2019-12-17_13-29
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. Linux, Windows, MacOS]
- - Version [e.g. 18.04]
+
+- OS: [e.g. Linux, Windows, MacOS]
+- Version [e.g. 18.04]
 - Hardware specs [e.g. 128GB RAM, Xeon 4114 CPU]
 
 **Additional context**
