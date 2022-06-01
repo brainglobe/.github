@@ -22,7 +22,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
 
-- OS: [e.g. Linux, Windows, MacOS]
+- OS: [e.g. Linux, Windows, macOS]
 - Version [e.g. 18.04]
 - Hardware specs [e.g. 128GB RAM, Xeon 4114 CPU]
 
