@@ -22,9 +22,10 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
 
-- OS: [e.g. Linux, Windows, macOS]
+- OS: [e.g. Linux, Windows, macOS] For macOS, please specify if you have an Intel or M1 CPU (M1 is likely if your mac is new).
 - Version [e.g. 18.04]
-- Hardware specs [e.g. 128 GB RAM, Xeon 4114 CPU]
+- Hardware specs [e.g. 128 GB RAM, Xeon 4114 CPU].
+
 
 **Additional context**
 Add any other context about the problem here.
