@@ -20,7 +20,7 @@ Please attach the log file if relevant (e.g. `output/cellfinder_2019-12-17_13-29
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
+**Computer used (please complete the following information):**
 
 - OS: [e.g. Linux, Windows, macOS] For macOS, please specify if you have an Intel or M1 CPU (M1 is likely if your mac is new).
 - Version [e.g. 18.04]
