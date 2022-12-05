@@ -73,6 +73,7 @@ pip install -e .[dev]
 ```
 
 Or if using `zsh`:
+
 ```sh
 pip install -e '.[dev]'
 ```
