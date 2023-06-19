@@ -13,10 +13,13 @@ We have three aims:
 - Build a community of neuroscientists and developers to share knowledge, build software and engage
   with the scientific, and open-source community (e.g. by organising hackathons).
 
-The BrainGlobe project is generously supported by the Sainsbury Wellcome Centre and the Institute of Neuroscience, Technical University of Munich, with funding from the Chan Zuckerberg Initiative, Wellcome, the Gatsby Charitable Foundation and the Munich Cluster for Systems Neurology - Synergy.
+The BrainGlobe project is only possible due to grant funding and the generous support of host institutions:
 
 <p>
-<img src='https://brainglobe.info/images/SWC.png' width="150">
-<img src='https://brainglobe.info/images/TUM.png' width="150">
-<img src='https://brainglobe.info/images/CZI.png' width="150">
+<img src='https://brainglobe.info/_static/light-logo-swc.png' width="150">
+<img src='https://brainglobe.info/_static/light-logo-TUM.png' width="150">
+<img src='https://brainglobe.info/_static/light-wellcome-logo.png' width="150">
+<img src='https://brainglobe.info/_static/light-logo-gatsby.png' width="150">
+<img src='https://brainglobe.info/_static/light-czi-logo.png' width="150">
 </p>
+
