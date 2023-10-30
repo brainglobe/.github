@@ -6,7 +6,7 @@ contact_links:
     about: Please see here for information about how to install and use BrainGlobe software.
   - name: ❓ image.sc forum
     url: https://forum.image.sc/tag/brainglobe
-    about: Please ask general questions (e.g. how do I, what is this? etc.) on the image.sc forum. Tagging `brainglobe` and the name of the softare (e.g. `cellfinder`).
+    about: Please ask general questions (e.g. how do I, what is this? etc.) on the image.sc forum. Tagging `brainglobe` and the name of the software (e.g. `cellfinder`).
   - name: 💬 Zulip
     url: https://brainglobe.zulipchat.com/
     about: Please join the Zulip chat to ask us any development questions (e.g. how can I contribute?).
