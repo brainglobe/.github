@@ -1,5 +1,7 @@
 Before submitting a pull request (PR), please read the [contributing guide](https://github.com/brainglobe/.github/blob/main/CONTRIBUTING.md).
 
+Please fill out as much of this template as you can, but if you have any problems or questions, just leave a comment and we will help out :)
+
 ## Description
 
 **What is this PR**
@@ -26,7 +28,7 @@ If this PR breaks any existing functionality, please explain how and why.
 
 ## Does this PR require an update to the documentation?
 
-If any features have changed, or have been added. Please explain how the documentation has been updated (and link to the associated PR). See [here](https://docs.cellfinder.info/for-developers/documentation) for details.
+If any features have changed, or have been added. Please explain how the documentation has been updated (and link to the associated PR). See [here](https://brainglobe.info/community/developers/index.html#to-improve-the-documentation) for details.
 
 ## Checklist:
 
